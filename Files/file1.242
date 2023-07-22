@@ -1,0 +1,13 @@
+<242>
+	<files>
+		<file> /Users/hindsuleiman/demo/SecondDataStructureProject/Files/file2.242 </file>
+		<file> /Users/hindsuleiman/demo/SecondDataStructureProject/Files/file3.242 </file>
+	</files> 
+
+	<equations>
+		<equation>5 + 3</equation>
+		<equation>1 + 2 * 3</equation>
+		<equation>1 + 2 + * 3</equation>
+		<equation>( 1 + ( 2 * )</equation>
+	</equations>
+</242>
